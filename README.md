@@ -7,3 +7,4 @@ requests.
 ● .exe must be delivered to client
 ● Source code must be delivered to client
 ● Maintenance and new features to be handled by client’s nephew
+https://trello.com/b/p1FcrWkO/c-introduction-hello-world-hello-user-hello-everybody
